@@ -2,7 +2,8 @@ var currentDay = moment();
 $("#currentDay").text(currentDay.format("dddd, MMMM Do YYYY"));
 
 // 24H time
-var currentTime = moment().format("H");
+var currentTime = moment().format("HH");
+console.log(currentTime);
 
 // Looping through each textarea
 $("textarea").each(function(){
