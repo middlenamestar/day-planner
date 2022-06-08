@@ -11,4 +11,4 @@ Click on the time slot you want to edit/add an event to, then click the save but
 The planner currently shows past events in tan. Future events will be shown in yellow, and the current hour will appear in blue.
 
 ## Deployment
-Application is deployed with GitHub Pages: https://middlenamestar.github.io/Day-Planner/
+Application is deployed with GitHub Pages: https://middlenamestar.github.io/day-planner/
